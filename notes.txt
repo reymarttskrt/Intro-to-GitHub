@@ -1,0 +1,5 @@
+git init - Initialize a repository
+git add - Stage changes
+git commit - Save a snapshot
+git push - Upload changes to GitHub
+git pull - Fetch and integrate changes
